@@ -1,0 +1,24 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    color: brown;
+    text-align: center;
+}
+p{
+    font-size: 25px;
+    text-align: justify;
+}
+img{
+    border-radius: 25%;
+}
+table{
+    border-color: blue;
+}
+a{
+    color: blue;
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+}
